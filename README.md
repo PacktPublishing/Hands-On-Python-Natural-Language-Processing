@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/data/hands-on-python-natural-language-processing?utm_source=github&utm_medium=repository&utm_campaign=9781838989590"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838989590-original_77.png" alt="Hands-On Python Natural Language Processing" height="256px" align="right"></a>
 
-This is the code repository for [PyTorch Computer Vision Cookbook](https://www.packtpub.com/data/hands-on-python-natural-language-processing?utm_source=github&utm_medium=repository&utm_campaign=9781838989590), published by Packt.
+This is the code repository for [Hands-On Python Natural Language Processing](https://www.packtpub.com/data/hands-on-python-natural-language-processing?utm_source=github&utm_medium=repository&utm_campaign=9781838989590), published by Packt.
 
 **Explore tools and techniques to analyze and process text with a view to building real-world NLP applications**
 
