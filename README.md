@@ -47,6 +47,21 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838989590_ColorImages.pdf).
 
+## Errata
+
+* Page 167:  
+```
+  from sklearn.naive_bayes import MultinomialNaive Bayes
+  clf = MultinomialNaive Bayes()** 
+```
+   _should be_ 
+  
+```
+  from sklearn.naive_bayes import MultinomialNB
+  clf = MultinomialNB()
+
+```
+
 
 ### Related products <Other books you may enjoy>
 * Natural Language Processing with Python Quick Start Guide [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-python-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130386) [[Amazon]](https://www.amazon.com/Natural-Language-Processing-Python-Quick/dp/1789130387)
