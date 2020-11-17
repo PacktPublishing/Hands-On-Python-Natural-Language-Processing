@@ -59,7 +59,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ```
   from sklearn.naive_bayes import MultinomialNB
   clf = MultinomialNB()
-
 ```
 
 
